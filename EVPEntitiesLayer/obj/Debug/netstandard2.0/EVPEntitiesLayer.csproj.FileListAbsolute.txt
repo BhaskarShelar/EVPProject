@@ -1,0 +1,8 @@
+F:\DotNet\EVP\EVPEntitiesLayer\bin\Debug\netstandard2.0\EVPEntitiesLayer.deps.json
+F:\DotNet\EVP\EVPEntitiesLayer\bin\Debug\netstandard2.0\EVPEntitiesLayer.dll
+F:\DotNet\EVP\EVPEntitiesLayer\bin\Debug\netstandard2.0\EVPEntitiesLayer.pdb
+F:\DotNet\EVP\EVPEntitiesLayer\obj\Debug\netstandard2.0\EVPEntitiesLayer.csprojAssemblyReference.cache
+F:\DotNet\EVP\EVPEntitiesLayer\obj\Debug\netstandard2.0\EVPEntitiesLayer.AssemblyInfoInputs.cache
+F:\DotNet\EVP\EVPEntitiesLayer\obj\Debug\netstandard2.0\EVPEntitiesLayer.AssemblyInfo.cs
+F:\DotNet\EVP\EVPEntitiesLayer\obj\Debug\netstandard2.0\EVPEntitiesLayer.dll
+F:\DotNet\EVP\EVPEntitiesLayer\obj\Debug\netstandard2.0\EVPEntitiesLayer.pdb

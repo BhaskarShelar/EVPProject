@@ -1,0 +1,11 @@
+F:\DotNet\EVP\EVPServiceLayer\bin\Debug\netstandard2.0\EVPServiceLayer.deps.json
+F:\DotNet\EVP\EVPServiceLayer\bin\Debug\netstandard2.0\EVPServiceLayer.dll
+F:\DotNet\EVP\EVPServiceLayer\bin\Debug\netstandard2.0\EVPServiceLayer.pdb
+F:\DotNet\EVP\EVPServiceLayer\bin\Debug\netstandard2.0\EVPEntitiesLayer.dll
+F:\DotNet\EVP\EVPServiceLayer\bin\Debug\netstandard2.0\EVPEntitiesLayer.pdb
+F:\DotNet\EVP\EVPServiceLayer\obj\Debug\netstandard2.0\EVPServiceLayer.csprojAssemblyReference.cache
+F:\DotNet\EVP\EVPServiceLayer\obj\Debug\netstandard2.0\EVPServiceLayer.AssemblyInfoInputs.cache
+F:\DotNet\EVP\EVPServiceLayer\obj\Debug\netstandard2.0\EVPServiceLayer.AssemblyInfo.cs
+F:\DotNet\EVP\EVPServiceLayer\obj\Debug\netstandard2.0\EVPServiceLayer.csproj.CopyComplete
+F:\DotNet\EVP\EVPServiceLayer\obj\Debug\netstandard2.0\EVPServiceLayer.dll
+F:\DotNet\EVP\EVPServiceLayer\obj\Debug\netstandard2.0\EVPServiceLayer.pdb
